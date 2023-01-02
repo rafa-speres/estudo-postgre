@@ -1,2 +1,2 @@
-# estudo-postgre
-Repo para salvar estudos e queries em SQL
+# Estudos em PostgreSQL
+> Repo para salvar estudos e queries em SQL
